@@ -1,3 +1,5 @@
+package code;
+
 public class Code01_GetMax {
 
     public static int getMax(int[] arr) {
