@@ -24,7 +24,7 @@ public class Code02_MergeSort {
         while (p1 <= M) {
             helper[i++] = arr[p1++];
         }
-        while (p2 <= M) {
+        while (p2 <= R) {
             helper[i++] = arr[p2++];
         }
         for (i = 0; i < helper.length; i++) {
